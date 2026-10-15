@@ -1,6 +1,6 @@
 # Currículo Digital — Pedro Lucas Braga Ximenes
 
-Site de currículo/portfólio responsivo feito com HTML, CSS e JavaScript puro. Não precisa instalar dependências nem executar servidor para visualizar localmente.
+Site de currículo/portfólio responsivo feito com HTML, CSS e JavaScript puro com Antigravity seguindo o arquivo orientação.txt. Não precisa instalar dependências nem executar servidor para visualizar localmente.
 
 ## Rodar localmente
 
